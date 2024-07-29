@@ -1,0 +1,1 @@
+Hi! This is my Python script that allows the user to webscrape any food item from www.myfooddiary.com and extract nutritional data through automation. Details such as calories, fat, carbs, and protein can be viewed directly in the program and saved to a .csv file that logs daily totals.
